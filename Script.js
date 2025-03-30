@@ -90,7 +90,7 @@
 let a = "50";
 let b = 5;
 
-console.log('a * b =',a*b);
+console.log('a - b =',a*b);
 
 
 let g = 1;
